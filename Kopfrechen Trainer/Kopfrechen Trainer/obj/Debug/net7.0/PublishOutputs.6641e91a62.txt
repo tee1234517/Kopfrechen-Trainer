@@ -1,0 +1,5 @@
+/Users/thiess/Projects/Kopfrechen Trainer/Kopfrechen Trainer/bin/Debug/net7.0/publish/Kopfrechen Trainer
+/Users/thiess/Projects/Kopfrechen Trainer/Kopfrechen Trainer/bin/Debug/net7.0/publish/Kopfrechen Trainer.dll
+/Users/thiess/Projects/Kopfrechen Trainer/Kopfrechen Trainer/bin/Debug/net7.0/publish/Kopfrechen Trainer.deps.json
+/Users/thiess/Projects/Kopfrechen Trainer/Kopfrechen Trainer/bin/Debug/net7.0/publish/Kopfrechen Trainer.runtimeconfig.json
+/Users/thiess/Projects/Kopfrechen Trainer/Kopfrechen Trainer/bin/Debug/net7.0/publish/Kopfrechen Trainer.pdb
