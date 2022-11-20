@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gLVlimAfKSoy4Vxw3BWhSkz9HLsJWjIfBT4btD+uMdidEtF5TPFM2tMWDnpXrJ8eAHYuKoQeiWvpPyDOsNbnNQ==",
+  "success": true,
+  "projectFilePath": "/Users/thiess/Projects/Kopfrechen Trainer/Kopfrechen Trainer/Kopfrechen Trainer.csproj",
+  "expectedPackageFiles": [
+    "/Users/thiess/.nuget/packages/microsoft.netcore.app.host.win-arm64/7.0.0/microsoft.netcore.app.host.win-arm64.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

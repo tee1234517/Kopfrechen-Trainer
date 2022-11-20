@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kopfrechen Trainer", "Kopfrechen Trainer\Kopfrechen Trainer.csproj", "{378015DC-15B8-4FB8-9876-7C685A49D179}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{378015DC-15B8-4FB8-9876-7C685A49D179}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{378015DC-15B8-4FB8-9876-7C685A49D179}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{378015DC-15B8-4FB8-9876-7C685A49D179}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{378015DC-15B8-4FB8-9876-7C685A49D179}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A5D05BF-C368-4A42-98DC-46522F675A22}
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.FileWidth = 80
+		$1.TabsToSpaces = True
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 80
+		$3.TabsToSpaces = True
+		$3.scope = text/plain
+		description = Ein Kopfrechen Trainer von mir :)
+		version = 1.0
+	EndGlobalSection
+EndGlobal

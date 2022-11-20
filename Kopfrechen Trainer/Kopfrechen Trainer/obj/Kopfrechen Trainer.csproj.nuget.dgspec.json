@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/thiess/Projects/Kopfrechen Trainer/Kopfrechen Trainer/Kopfrechen Trainer.csproj": {}
+  },
+  "projects": {
+    "/Users/thiess/Projects/Kopfrechen Trainer/Kopfrechen Trainer/Kopfrechen Trainer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/thiess/Projects/Kopfrechen Trainer/Kopfrechen Trainer/Kopfrechen Trainer.csproj",
+        "projectName": "Kopfrechen Trainer",
+        "projectPath": "/Users/thiess/Projects/Kopfrechen Trainer/Kopfrechen Trainer/Kopfrechen Trainer.csproj",
+        "packagesPath": "/Users/thiess/.nuget/packages/",
+        "outputPath": "/Users/thiess/Projects/Kopfrechen Trainer/Kopfrechen Trainer/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/thiess/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-arm64",
+              "version": "[7.0.0, 7.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win10-arm64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
